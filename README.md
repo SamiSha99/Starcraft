@@ -1,3 +1,3 @@
-# My literally first ever attempt in making website.
+# My (literally) first ever attempt in making a website.
 
-See for yourself... SamiSha99.github.io/Starcraft/
+See for yourself... https://samisha99.github.io/Starcraft/
